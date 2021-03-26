@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # token_ERC20
 
 Welcome to your new token_ERC20 project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
@@ -18,3 +19,6 @@ cd token_ERC20/
 dfx help
 dfx config --help
 ```
+=======
+# motokoERC20
+>>>>>>> 8d69c3eb127cd752f6a5bdb79bf571669d59a451
